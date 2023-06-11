@@ -1,5 +1,7 @@
 #!/usr/bin/sh
 
+# (Suggested prerequisite: temp_file.sh)
+
 # This script illustrates how to safely clean up resources (such as temporary
 # files) in a POSIX shell script.
 
